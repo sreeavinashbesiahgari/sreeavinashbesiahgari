@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 About Me
-> I'm a passionate developer with expertise in Python and JavaScript, specializing in Machine Learning and Natural Language Processing. I love building innovative solutions and exploring cutting-edge technologies.
+> I'm a passionate developer with expertise in Python, specializing in Machine Learning and LLM's. I love building innovative solutions and exploring cutting-edge technologies.
 
 ## 🛠️ Tech Stack
 <div align="center">

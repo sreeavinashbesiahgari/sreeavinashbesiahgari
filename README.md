@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 About Me
-> I'm a passionate developer with expertise in Python, specializing in Machine Learning and GEN AI RAG Applications. I love building innovative solutions and exploring cutting-edge technologies.
+> I'm a passionate developer with expertise in Python and SQL, specializing in Machine Learning and GEN AI RAG Applications.
 
 ## 🛠️ Tech Stack
 <div align="center">

@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sree Avinash</h1>
-<h3 align="center">ML Engineer | GenAI Developer | Python Developer</h3>
+<h3 align="center"> Business Analyst | Python Developer</h3>
 
 <p align="center">
   Passionate about building intelligent systems using <strong>Python</strong>, <strong>SQL</strong>, <strong>Machine Learning</strong>, and <strong>Generative AI</strong>.
